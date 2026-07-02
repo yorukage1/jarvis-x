@@ -9,3 +9,11 @@ Personal AI Assistant by XR Labs
 - [ ] Internet Search
 - [ ] Phone Actions
 - [ ] Settings
+
+JARVIS X is an AI Operating Assistant created by XR Labs.
+
+Mission:
+Build the world's smartest personal AI assistant that helps people think less and do more.
+
+Tagline:
+Intelligence Without Limits.
